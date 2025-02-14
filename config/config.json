@@ -14,10 +14,10 @@
         "enableMods": false
     },
     "version": {
-      "android": {
-        "resVersion": "25-02-07-05-28-44-c1ba2a",
-        "clientVersion": "2.4.41"
-      }
+        "android": {
+            "resVersion": "25-02-12-10-23-22-1b0fcf",
+            "clientVersion": "2.4.41"
+        }
     },
     "remote": {
         "enableGameBI": false,
@@ -95,20 +95,20 @@
     "battleReplayConfig": {
         "anonymous": false
     },
-  "userConfig": {
-    "restorePreviousStates": {
-      "is2": false,
-      "squadsAndFavs": true,
-      "ui": true
+    "userConfig": {
+        "restorePreviousStates": {
+            "is2": false,
+            "squadsAndFavs": true,
+            "ui": true
+        },
+        "activityMinStartTs": 1736913600,
+        "activityMaxStartTs": 1739908799,
+        "secretary": "char_2025_shu",
+        "secretarySkinId": "char_2025_shu@nian#11",
+        "background": "bg_sui_1",
+        "theme": "tm_sui_1",
+        "fakeTime": -1
     },
-    "activityMinStartTs": 1736913600,
-    "activityMaxStartTs": 1739908799,
-    "secretary": "char_2025_shu",
-    "secretarySkinId": "char_2025_shu@nian#11",
-    "background": "bg_sui_1",
-    "theme": "tm_sui_1",
-    "fakeTime": -1
-  },
     "charConfig": {
         "favorPoint": 25570,
         "potentialRank": 5,
