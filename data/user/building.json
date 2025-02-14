@@ -4066,6 +4066,25 @@
             },
             "workTime": 0
         },
+        "4173": {
+            "charId": "char_4173_nowell",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
         "402": {
             "charId": "char_402_tuye",
             "lastApAddTime": 1695000000,
@@ -7564,6 +7583,25 @@
         },
         "1032": {
             "charId": "char_1032_excu2",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
+        "4010": {
+            "charId": "char_4010_etlchi",
             "lastApAddTime": 1695000000,
             "ap": 8640000,
             "roomSlotId": "",
@@ -15110,6 +15148,82 @@
             "count": 9999,
             "inUse": 0
         },
+        "furni_villagemanor_arch_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_boat_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_worktable_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_minicarpet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_brickwall_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_tulip_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_heartdeco_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_chandelier_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_leftchair_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_teatable_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_rightchair_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_carpet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_bench_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_ceilinglamp_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_shelf_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_plantbench_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_plantshelf_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_wallpaper_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_floor_01": {
+            "count": 9999,
+            "inUse": 0
+        },
         "furni_oct1st_deckChair_01": {
             "count": 9999,
             "inUse": 0
@@ -15895,6 +16009,10 @@
             "inUse": 0
         },
         "furni_terracommericials_CondensedSuppressant_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_terracommericials_ForteEnergyDrink_01": {
             "count": 9999,
             "inUse": 0
         },

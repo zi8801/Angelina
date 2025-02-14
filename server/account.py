@@ -191,58 +191,87 @@ def accountSyncData():
                         for skillIndex, skillValue in enumerate(custom_units[char]["skills"]):
                             myCharList[int(cntInstId)]["skills"][skillIndex]["specializeLevel"] = skillValue
 
-        if operatorKeys[cnt] == "char_002_amiya":
-            myCharList[int(cntInstId)].update({
-                "defaultSkillIndex": -1,
-                "skills": [],
-                "currentTmpl": "char_002_amiya",
-                "tmpl": {
-                    "char_002_amiya": {
-                        "skinId": "char_002_amiya@test#1",
-                        "defaultSkillIndex": 2,
-                        "skills": [
-                            {
-                                "skillId": skill_name,
-                                "unlock": 1,
-                                "state": 0,
-                                "specializeLevel": edit_json["skillsSpecializeLevel"],
-                                "completeUpgradeTime": -1
-                            } for skill_name in ["skcom_magic_rage[3]", "skchr_amiya_2", "skchr_amiya_3"]
-                        ],
-                        "currentEquip": None,
-                        "equip": {},
-                    },
-                    "char_1001_amiya2": {
-                        "skinId": "char_1001_amiya2@casc#1",
-                        "defaultSkillIndex": 1,
-                        "skills": [
-                            {
-                                "skillId": skill_name,
-                                "unlock": 1,
-                                "state": 0,
-                                "specializeLevel": edit_json["skillsSpecializeLevel"],
-                                "completeUpgradeTime": -1
-                            } for skill_name in ["skchr_amiya2_1", "skchr_amiya2_2"]
-                        ],
-                        "currentEquip": None,
-                        "equip": {},
+            if operatorKeys[cnt] == "char_002_amiya":
+                myCharList[int(cntInstId)].update(
+                    {
+                        "defaultSkillIndex": -1,
+                        "skills": [],
+                        "currentTmpl": "char_002_amiya",
+                        "tmpl": {
+                            "char_002_amiya": {
+                                "skinId": "char_002_amiya@test#1",
+                                "defaultSkillIndex": 2,
+                                "skills": [
+                                    {
+                                        "skillId": skill_name,
+                                        "unlock": 1,
+                                        "state": 0,
+                                        "specializeLevel": edit_json[
+                                            "skillsSpecializeLevel"
+                                        ],
+                                        "completeUpgradeTime": -1,
+                                    }
+                                    for skill_name in [
+                                        "skcom_magic_rage[3]",
+                                        "skchr_amiya_2",
+                                        "skchr_amiya_3",
+                                    ]
+                                ],
+                                "currentEquip": None,
+                                "equip": {},
+                            },
+                            "char_1001_amiya2": {
+                                "skinId": "char_1001_amiya2@casc#1",
+                                "defaultSkillIndex": 1,
+                                "skills": [
+                                    {
+                                        "skillId": skill_name,
+                                        "unlock": 1,
+                                        "state": 0,
+                                        "specializeLevel": edit_json[
+                                            "skillsSpecializeLevel"
+                                        ],
+                                        "completeUpgradeTime": -1,
+                                    }
+                                    for skill_name in ["skchr_amiya2_1", "skchr_amiya2_2"]
+                                ],
+                                "currentEquip": None,
+                                "equip": {},
+                            },
+                            "char_1037_amiya3": {
+                                "skinId": "char_1001_amiya2@casc#1",
+                                "defaultSkillIndex": 1,
+                                "skills": [
+                                    {
+                                        "skillId": skill_name,
+                                        "unlock": 1,
+                                        "state": 0,
+                                        "specializeLevel": edit_json[
+                                            "skillsSpecializeLevel"
+                                        ],
+                                        "completeUpgradeTime": -1,
+                                    }
+                                    for skill_name in ["skchr_amiya3_1", "skchr_amiya3_2"]
+                                ],
+                                "currentEquip": None,
+                                "equip": {},
+                            },
+                        },
                     }
-                }
-            })
-            for equip in equip_table["charEquip"]["char_002_amiya"]:
-                level = 1
-                if equip in list(battle_equip_table.keys()):
-                    level = len(battle_equip_table[equip]["phases"])
-                myCharList[int(cntInstId)]["tmpl"]["char_002_amiya"]["equip"].update({
-                    equip: {
-                        "hide": 0,
-                        "locked": 0,
-                        "level": level
-                    }
-                })
-            myCharList[int(cntInstId)]["tmpl"]["char_002_amiya"]["currentEquip"] = equip_table["charEquip"]["char_002_amiya"][-1]
-        elif operatorKeys[cnt] == "char_512_aprot":
-            myCharList[int(cntInstId)]["skin"] = "char_512_aprot#1"
+                )
+                for equip in equip_table["charEquip"]["char_002_amiya"]:
+                    level = 1
+                    if equip in list(battle_equip_table.keys()):
+                        level = len(battle_equip_table[equip]["phases"])
+                    myCharList[int(cntInstId)]["tmpl"]["char_002_amiya"]["equip"].update(
+                        {equip: {"hide": 0, "locked": 0, "level": level}}
+                    )
+                myCharList[int(cntInstId)]["tmpl"]["char_002_amiya"]["currentEquip"] = (
+                    equip_table["charEquip"]["char_002_amiya"][-1]
+                )
+            elif operatorKeys[cnt] == "char_512_aprot":
+                myCharList[int(cntInstId)]["skin"] = "char_512_aprot#1"
+
 
 
         buildingChars.update({
