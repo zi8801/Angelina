@@ -1,5 +1,116 @@
 {
-    "current": "main_00-01",
+    "current": "camp_r_27",
     "currentCharConfig": "95cf97c228e6c235cd6503e5eeb1b737",
-    "saved": {}
+    "saved": {
+        "95cf97c228e6c235cd6503e5eeb1b737": {
+            "camp_r_27": {
+                "campaignOnlyVersion": 1,
+                "timestamp": "1740057004",
+                "journal": {
+                    "metadata": {
+                        "standardPlayTime": 2058.23145,
+                        "gameResult": 1,
+                        "saveTime": "2025-02-20T21:09:50.998458Z",
+                        "remainingCost": 2,
+                        "remainingLifePoint": 8,
+                        "killedEnemiesCnt": 398,
+                        "missedEnemiesCnt": 2,
+                        "levelId": "Obt/Campaign/level_camp_r_27",
+                        "stageId": "camp_r_27",
+                        "validKilledEnemiesCnt": 398
+                    },
+                    "squad": [
+                        {
+                            "charInstId": 4132,
+                            "skinId": "char_4132_ascln#2",
+                            "tmplId": null,
+                            "skillId": "skchr_ascln_1",
+                            "skillIndex": 0,
+                            "skillLvl": 10,
+                            "level": 90,
+                            "phase": 2,
+                            "potentialRank": 5,
+                            "favorBattlePhase": 100,
+                            "isAssistChar": false,
+                            "uniequipId": "uniequip_002_ascln",
+                            "uniequipLevel": 3
+                        },
+                        {
+                            "charInstId": 1035,
+                            "skinId": "char_1035_wisdel#2",
+                            "tmplId": null,
+                            "skillId": "skchr_wisdel_1",
+                            "skillIndex": 0,
+                            "skillLvl": 10,
+                            "level": 90,
+                            "phase": 2,
+                            "potentialRank": 5,
+                            "favorBattlePhase": 100,
+                            "isAssistChar": false,
+                            "uniequipId": "uniequip_002_wisdel",
+                            "uniequipLevel": 3
+                        },
+                        {
+                            "charInstId": 1012,
+                            "skinId": "char_1012_skadi2@iteration#2",
+                            "tmplId": null,
+                            "skillId": "skchr_skadi2_2",
+                            "skillIndex": 1,
+                            "skillLvl": 10,
+                            "level": 90,
+                            "phase": 2,
+                            "potentialRank": 5,
+                            "favorBattlePhase": 100,
+                            "isAssistChar": false,
+                            "uniequipId": "uniequip_002_skadi2",
+                            "uniequipLevel": 3
+                        }
+                    ],
+                    "logs": [
+                        {
+                            "timestamp": 1.099999,
+                            "signiture": {
+                                "uniqueId": 2147484660,
+                                "charId": "char_1012_skadi2"
+                            },
+                            "op": 0,
+                            "direction": 1,
+                            "pos": {
+                                "row": 3,
+                                "col": 3
+                            }
+                        },
+                        {
+                            "timestamp": 2.0666647,
+                            "signiture": {
+                                "uniqueId": 2147487780,
+                                "charId": "char_4132_ascln"
+                            },
+                            "op": 0,
+                            "direction": 1,
+                            "pos": {
+                                "row": 3,
+                                "col": 5
+                            }
+                        },
+                        {
+                            "timestamp": 3.13333035,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 0,
+                            "direction": 0,
+                            "pos": {
+                                "row": 2,
+                                "col": 3
+                            }
+                        }
+                    ],
+                    "randomSeed": 1349613,
+                    "runeList": null
+                }
+            }
+        }
+    }
 }

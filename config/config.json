@@ -15,7 +15,7 @@
     },
     "version": {
         "android": {
-            "resVersion": "25-02-14-16-11-02-89657b",
+            "resVersion": "25-02-19-09-21-28-ba1f4e",
             "clientVersion": "2.4.41"
         }
     },
@@ -101,8 +101,8 @@
             "squadsAndFavs": true,
             "ui": true
         },
-        "activityMinStartTs": 1736913600,
-        "activityMaxStartTs": 1739908799,
+        "activityMinStartTs": 1739779200,
+        "activityMaxStartTs": 1741809599,
         "secretary": "char_2025_shu",
         "secretarySkinId": "char_2025_shu@nian#11",
         "background": "bg_sui_1",
