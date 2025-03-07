@@ -15,8 +15,8 @@
     },
     "version": {
         "android": {
-            "resVersion": "25-02-19-09-21-28-ba1f4e",
-            "clientVersion": "2.4.41"
+            "resVersion": "25-03-06-16-27-08-c23c8c",
+            "clientVersion": "2.4.61"
         }
     },
     "remote": {
@@ -29,9 +29,9 @@
             "sign": "sign",
             "content": {
                 "configVer": "5",
-                "funcVer": "V058",
+                "funcVer": "V059",
                 "configs": {
-                    "V058": {
+                    "V059": {
                         "override": true,
                         "network": {
                             "gs": "{server}",
@@ -101,8 +101,8 @@
             "squadsAndFavs": true,
             "ui": true
         },
-        "activityMinStartTs": 1739779200,
-        "activityMaxStartTs": 1741809599,
+        "activityMinStartTs": 1740715200,
+        "activityMaxStartTs": 1743105599,
         "secretary": "char_2025_shu",
         "secretarySkinId": "char_2025_shu@nian#11",
         "background": "bg_sui_1",

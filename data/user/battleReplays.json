@@ -1,40 +1,25 @@
 {
-    "current": "camp_r_27",
+    "current": "main_03-08",
     "currentCharConfig": "95cf97c228e6c235cd6503e5eeb1b737",
     "saved": {
         "95cf97c228e6c235cd6503e5eeb1b737": {
             "camp_r_27": {
-                "campaignOnlyVersion": 1,
-                "timestamp": "1740057004",
+                "campaignOnlyVersion": 12,
+                "timestamp": "1740902868",
                 "journal": {
                     "metadata": {
-                        "standardPlayTime": 2058.23145,
+                        "standardPlayTime": 1953.69812,
                         "gameResult": 1,
-                        "saveTime": "2025-02-20T21:09:50.998458Z",
+                        "saveTime": "2025-03-02T16:07:41.434816Z",
                         "remainingCost": 2,
-                        "remainingLifePoint": 8,
-                        "killedEnemiesCnt": 398,
-                        "missedEnemiesCnt": 2,
+                        "remainingLifePoint": 10,
+                        "killedEnemiesCnt": 400,
+                        "missedEnemiesCnt": 0,
                         "levelId": "Obt/Campaign/level_camp_r_27",
                         "stageId": "camp_r_27",
-                        "validKilledEnemiesCnt": 398
+                        "validKilledEnemiesCnt": 400
                     },
                     "squad": [
-                        {
-                            "charInstId": 4132,
-                            "skinId": "char_4132_ascln#2",
-                            "tmplId": null,
-                            "skillId": "skchr_ascln_1",
-                            "skillIndex": 0,
-                            "skillLvl": 10,
-                            "level": 90,
-                            "phase": 2,
-                            "potentialRank": 5,
-                            "favorBattlePhase": 100,
-                            "isAssistChar": false,
-                            "uniequipId": "uniequip_002_ascln",
-                            "uniequipLevel": 3
-                        },
                         {
                             "charInstId": 1035,
                             "skinId": "char_1035_wisdel#2",
@@ -48,6 +33,111 @@
                             "favorBattlePhase": 100,
                             "isAssistChar": false,
                             "uniequipId": "uniequip_002_wisdel",
+                            "uniequipLevel": 3
+                        },
+                        {
+                            "charInstId": 4133,
+                            "skinId": "char_4133_logos#2",
+                            "tmplId": null,
+                            "skillId": "skchr_logos_1",
+                            "skillIndex": 0,
+                            "skillLvl": 10,
+                            "level": 90,
+                            "phase": 2,
+                            "potentialRank": 5,
+                            "favorBattlePhase": 100,
+                            "isAssistChar": false,
+                            "uniequipId": "uniequip_002_logos",
+                            "uniequipLevel": 3
+                        },
+                        {
+                            "charInstId": 340,
+                            "skinId": "char_340_shwaz@striker#1",
+                            "tmplId": null,
+                            "skillId": "skchr_shwaz_3",
+                            "skillIndex": 2,
+                            "skillLvl": 10,
+                            "level": 90,
+                            "phase": 2,
+                            "potentialRank": 5,
+                            "favorBattlePhase": 100,
+                            "isAssistChar": false,
+                            "uniequipId": "uniequip_002_shwaz",
+                            "uniequipLevel": 3
+                        },
+                        {
+                            "charInstId": 180,
+                            "skinId": "char_180_amgoat@summer#5",
+                            "tmplId": null,
+                            "skillId": "skchr_amgoat_3",
+                            "skillIndex": 2,
+                            "skillLvl": 10,
+                            "level": 90,
+                            "phase": 2,
+                            "potentialRank": 5,
+                            "favorBattlePhase": 100,
+                            "isAssistChar": false,
+                            "uniequipId": "uniequip_002_amgoat",
+                            "uniequipLevel": 3
+                        },
+                        {
+                            "charInstId": 2025,
+                            "skinId": "char_2025_shu@nian#11",
+                            "tmplId": null,
+                            "skillId": "skchr_shu_1",
+                            "skillIndex": 0,
+                            "skillLvl": 10,
+                            "level": 90,
+                            "phase": 2,
+                            "potentialRank": 5,
+                            "favorBattlePhase": 100,
+                            "isAssistChar": false,
+                            "uniequipId": "uniequip_002_shu",
+                            "uniequipLevel": 3
+                        },
+                        {
+                            "charInstId": 2026,
+                            "skinId": "char_2026_yu#2",
+                            "tmplId": null,
+                            "skillId": "skchr_yu_2",
+                            "skillIndex": 1,
+                            "skillLvl": 10,
+                            "level": 90,
+                            "phase": 2,
+                            "potentialRank": 5,
+                            "favorBattlePhase": 100,
+                            "isAssistChar": false,
+                            "uniequipId": "",
+                            "uniequipLevel": 0
+                        },
+                        {
+                            "charInstId": 2014,
+                            "skinId": "char_2014_nian@cfa#1",
+                            "tmplId": null,
+                            "skillId": "skchr_nian_2",
+                            "skillIndex": 1,
+                            "skillLvl": 10,
+                            "level": 90,
+                            "phase": 2,
+                            "potentialRank": 5,
+                            "favorBattlePhase": 100,
+                            "isAssistChar": false,
+                            "uniequipId": "uniequip_003_nian",
+                            "uniequipLevel": 3
+                        },
+                        {
+                            "charInstId": 2023,
+                            "skinId": "char_2023_ling@ncg#1",
+                            "tmplId": null,
+                            "skillId": "skchr_ling_3",
+                            "skillIndex": 2,
+                            "skillLvl": 10,
+                            "level": 90,
+                            "phase": 2,
+                            "potentialRank": 5,
+                            "favorBattlePhase": 100,
+                            "isAssistChar": false,
+                            "uniequipId": "uniequip_002_ling",
                             "uniequipLevel": 3
                         },
                         {
@@ -68,33 +158,323 @@
                     ],
                     "logs": [
                         {
-                            "timestamp": 1.099999,
+                            "timestamp": 0.666666031,
+                            "signiture": {
+                                "uniqueId": 2147487781,
+                                "charId": "char_4133_logos"
+                            },
+                            "op": 0,
+                            "direction": 3,
+                            "pos": {
+                                "row": 5,
+                                "col": 5
+                            }
+                        },
+                        {
+                            "timestamp": 2.2333312,
                             "signiture": {
                                 "uniqueId": 2147484660,
                                 "charId": "char_1012_skadi2"
                             },
                             "op": 0,
+                            "direction": 3,
+                            "pos": {
+                                "row": 5,
+                                "col": 7
+                            }
+                        },
+                        {
+                            "timestamp": 2.866664,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 0,
                             "direction": 1,
+                            "pos": {
+                                "row": 5,
+                                "col": 8
+                            }
+                        }
+                    ],
+                    "randomSeed": 4902493,
+                    "runeList": null
+                }
+            },
+            "act31side_ex07": {
+                "campaignOnlyVersion": 0,
+                "timestamp": "1740389865",
+                "journal": {
+                    "metadata": {
+                        "standardPlayTime": 355.133,
+                        "gameResult": 1,
+                        "saveTime": "2025-02-24T17:37:43.960538Z",
+                        "remainingCost": 99,
+                        "remainingLifePoint": 3,
+                        "killedEnemiesCnt": 59,
+                        "missedEnemiesCnt": 0,
+                        "levelId": "Activities/act31side/level_act31side_ex07",
+                        "stageId": "act31side_ex07",
+                        "validKilledEnemiesCnt": 59
+                    },
+                    "squad": [
+                        {
+                            "charInstId": 1035,
+                            "skinId": "char_1035_wisdel#2",
+                            "tmplId": null,
+                            "skillId": "skchr_wisdel_3",
+                            "skillIndex": 2,
+                            "skillLvl": 10,
+                            "level": 90,
+                            "phase": 2,
+                            "potentialRank": 5,
+                            "favorBattlePhase": 100,
+                            "isAssistChar": false,
+                            "uniequipId": "uniequip_002_wisdel",
+                            "uniequipLevel": 3
+                        },
+                        {
+                            "charInstId": 1028,
+                            "skinId": "char_1028_texas2@epoque#36",
+                            "tmplId": null,
+                            "skillId": "skchr_texas2_3",
+                            "skillIndex": 2,
+                            "skillLvl": 10,
+                            "level": 90,
+                            "phase": 2,
+                            "potentialRank": 5,
+                            "favorBattlePhase": 100,
+                            "isAssistChar": false,
+                            "uniequipId": "uniequip_002_texas2",
+                            "uniequipLevel": 3
+                        }
+                    ],
+                    "logs": [
+                        {
+                            "timestamp": 15.0333195,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 0,
+                            "direction": 1,
+                            "pos": {
+                                "row": 4,
+                                "col": 2
+                            }
+                        },
+                        {
+                            "timestamp": 25.6333084,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 4,
+                                "col": 2
+                            }
+                        },
+                        {
+                            "timestamp": 31.9666367,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 4,
+                                "col": 2
+                            }
+                        },
+                        {
+                            "timestamp": 55.73328,
+                            "signiture": {
+                                "uniqueId": 1,
+                                "charId": "trap_140_dhsb"
+                            },
+                            "op": 0,
+                            "direction": 1,
+                            "pos": {
+                                "row": 6,
+                                "col": 2
+                            }
+                        },
+                        {
+                            "timestamp": 117.733223,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 4,
+                                "col": 2
+                            }
+                        },
+                        {
+                            "timestamp": 143.69986,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 4,
+                                "col": 2
+                            }
+                        },
+                        {
+                            "timestamp": 172.26651,
+                            "signiture": {
+                                "uniqueId": 1,
+                                "charId": "trap_140_dhsb"
+                            },
+                            "op": 0,
+                            "direction": 0,
+                            "pos": {
+                                "row": 2,
+                                "col": 4
+                            }
+                        },
+                        {
+                            "timestamp": 212.36647,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 4,
+                                "col": 2
+                            }
+                        },
+                        {
+                            "timestamp": 212.466461,
+                            "signiture": {
+                                "uniqueId": 1073742859,
+                                "charId": "token_10035_wisdel_wward"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 4,
+                                "col": 3
+                            }
+                        },
+                        {
+                            "timestamp": 296.46637,
+                            "signiture": {
+                                "uniqueId": 1073742859,
+                                "charId": "token_10035_wisdel_wward"
+                            },
+                            "op": 1,
+                            "direction": 0,
                             "pos": {
                                 "row": 3,
                                 "col": 3
                             }
                         },
                         {
-                            "timestamp": 2.0666647,
+                            "timestamp": 296.533051,
                             "signiture": {
-                                "uniqueId": 2147487780,
-                                "charId": "char_4132_ascln"
+                                "uniqueId": 1073742859,
+                                "charId": "token_10035_wisdel_wward"
                             },
-                            "op": 0,
-                            "direction": 1,
+                            "op": 1,
+                            "direction": 0,
                             "pos": {
                                 "row": 3,
-                                "col": 5
+                                "col": 2
                             }
                         },
                         {
-                            "timestamp": 3.13333035,
+                            "timestamp": 296.599731,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 4,
+                                "col": 2
+                            }
+                        }
+                    ],
+                    "randomSeed": 6013411,
+                    "runeList": null
+                }
+            },
+            "camp_r_24": {
+                "campaignOnlyVersion": 3,
+                "timestamp": "1741320618",
+                "journal": {
+                    "metadata": {
+                        "standardPlayTime": 2006.46472,
+                        "gameResult": 1,
+                        "saveTime": "2025-03-07T12:10:03.389341Z",
+                        "remainingCost": 3,
+                        "remainingLifePoint": 4,
+                        "killedEnemiesCnt": 394,
+                        "missedEnemiesCnt": 6,
+                        "levelId": "Obt/Campaign/level_camp_r_24",
+                        "stageId": "camp_r_24",
+                        "validKilledEnemiesCnt": 394
+                    },
+                    "squad": [
+                        {
+                            "charInstId": 450,
+                            "skinId": "char_450_necras#2",
+                            "tmplId": null,
+                            "skillId": "skchr_necras_3",
+                            "skillIndex": 2,
+                            "skillLvl": 10,
+                            "level": 90,
+                            "phase": 2,
+                            "potentialRank": 5,
+                            "favorBattlePhase": 100,
+                            "isAssistChar": false,
+                            "uniequipId": "",
+                            "uniequipLevel": 0
+                        },
+                        {
+                            "charInstId": 1035,
+                            "skinId": "char_1035_wisdel#2",
+                            "tmplId": null,
+                            "skillId": "skchr_wisdel_3",
+                            "skillIndex": 2,
+                            "skillLvl": 10,
+                            "level": 90,
+                            "phase": 2,
+                            "potentialRank": 5,
+                            "favorBattlePhase": 100,
+                            "isAssistChar": false,
+                            "uniequipId": "uniequip_002_wisdel",
+                            "uniequipLevel": 3
+                        }
+                    ],
+                    "logs": [
+                        {
+                            "timestamp": 0.43333292,
+                            "signiture": {
+                                "uniqueId": 2147484098,
+                                "charId": "char_450_necras"
+                            },
+                            "op": 0,
+                            "direction": 3,
+                            "pos": {
+                                "row": 5,
+                                "col": 11
+                            }
+                        },
+                        {
+                            "timestamp": 1.36666536,
                             "signiture": {
                                 "uniqueId": 2147484683,
                                 "charId": "char_1035_wisdel"
@@ -102,12 +482,922 @@
                             "op": 0,
                             "direction": 0,
                             "pos": {
+                                "row": 1,
+                                "col": 7
+                            }
+                        },
+                        {
+                            "timestamp": 14.1999865,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 7
+                            }
+                        },
+                        {
+                            "timestamp": 17.0999832,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 7
+                            }
+                        },
+                        {
+                            "timestamp": 25.9333076,
+                            "signiture": {
+                                "uniqueId": 2147484098,
+                                "charId": "char_450_necras"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 5,
+                                "col": 11
+                            }
+                        },
+                        {
+                            "timestamp": 49.8332863,
+                            "signiture": {
+                                "uniqueId": 2147484098,
+                                "charId": "char_450_necras"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 5,
+                                "col": 11
+                            }
+                        },
+                        {
+                            "timestamp": 73.49993,
+                            "signiture": {
+                                "uniqueId": 2147484098,
+                                "charId": "char_450_necras"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 5,
+                                "col": 11
+                            }
+                        },
+                        {
+                            "timestamp": 102.633232,
+                            "signiture": {
+                                "uniqueId": 2147484098,
+                                "charId": "char_450_necras"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 5,
+                                "col": 11
+                            }
+                        },
+                        {
+                            "timestamp": 125.366547,
+                            "signiture": {
+                                "uniqueId": 2147484098,
+                                "charId": "char_450_necras"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 5,
+                                "col": 11
+                            }
+                        },
+                        {
+                            "timestamp": 158.866516,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 9
+                            }
+                        },
+                        {
+                            "timestamp": 174.3665,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 9
+                            }
+                        },
+                        {
+                            "timestamp": 191.599823,
+                            "signiture": {
+                                "uniqueId": 1,
+                                "charId": "trap_138_winstone"
+                            },
+                            "op": 0,
+                            "direction": 3,
+                            "pos": {
                                 "row": 2,
-                                "col": 3
+                                "col": 7
+                            }
+                        },
+                        {
+                            "timestamp": 195.133148,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 7
+                            }
+                        },
+                        {
+                            "timestamp": 199.766479,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 9
+                            }
+                        },
+                        {
+                            "timestamp": 207.36647,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 7
+                            }
+                        },
+                        {
+                            "timestamp": 215.666458,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 9
+                            }
+                        },
+                        {
+                            "timestamp": 221.3998,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 9
+                            }
+                        },
+                        {
+                            "timestamp": 245.866425,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 10
+                            }
+                        },
+                        {
+                            "timestamp": 266.9664,
+                            "signiture": {
+                                "uniqueId": 2147484098,
+                                "charId": "char_450_necras"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 5,
+                                "col": 11
+                            }
+                        },
+                        {
+                            "timestamp": 278.2664,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 9
+                            }
+                        },
+                        {
+                            "timestamp": 303.399719,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 9
+                            }
+                        },
+                        {
+                            "timestamp": 322.9997,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 10
+                            }
+                        },
+                        {
+                            "timestamp": 397.1663,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 9
+                            }
+                        },
+                        {
+                            "timestamp": 401.299622,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 9
+                            }
+                        },
+                        {
+                            "timestamp": 470.566223,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 9
+                            }
+                        },
+                        {
+                            "timestamp": 515.532837,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 9
+                            }
+                        },
+                        {
+                            "timestamp": 557.7661,
+                            "signiture": {
+                                "uniqueId": 2147484098,
+                                "charId": "char_450_necras"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 5,
+                                "col": 11
+                            }
+                        },
+                        {
+                            "timestamp": 604.432739,
+                            "signiture": {
+                                "uniqueId": 2147484098,
+                                "charId": "char_450_necras"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 5,
+                                "col": 11
+                            }
+                        },
+                        {
+                            "timestamp": 672.9327,
+                            "signiture": {
+                                "uniqueId": 2147484098,
+                                "charId": "char_450_necras"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 5,
+                                "col": 11
+                            }
+                        },
+                        {
+                            "timestamp": 745.7993,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 9
+                            }
+                        },
+                        {
+                            "timestamp": 774.2326,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 9
+                            }
+                        },
+                        {
+                            "timestamp": 803.632568,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 9
+                            }
+                        },
+                        {
+                            "timestamp": 805.9992,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 9
+                            }
+                        },
+                        {
+                            "timestamp": 819.732544,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 9
+                            }
+                        },
+                        {
+                            "timestamp": 839.732544,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 9
+                            }
+                        },
+                        {
+                            "timestamp": 843.665833,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 9
+                            }
+                        },
+                        {
+                            "timestamp": 946.265747,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 9
+                            }
+                        },
+                        {
+                            "timestamp": 950.3658,
+                            "signiture": {
+                                "uniqueId": 2147484098,
+                                "charId": "char_450_necras"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 5,
+                                "col": 11
+                            }
+                        },
+                        {
+                            "timestamp": 969.7991,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 9
+                            }
+                        },
+                        {
+                            "timestamp": 980.4324,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 9
+                            }
+                        },
+                        {
+                            "timestamp": 1055.93237,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 9
+                            }
+                        },
+                        {
+                            "timestamp": 1059.099,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 9
+                            }
+                        },
+                        {
+                            "timestamp": 1080.76563,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 9
+                            }
+                        },
+                        {
+                            "timestamp": 1095.7323,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 7
+                            }
+                        },
+                        {
+                            "timestamp": 1133.93225,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 10
+                            }
+                        },
+                        {
+                            "timestamp": 1169.96558,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 9
+                            }
+                        },
+                        {
+                            "timestamp": 1178.03223,
+                            "signiture": {
+                                "uniqueId": 1073742859,
+                                "charId": "token_10035_wisdel_wward"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 6
+                            }
+                        },
+                        {
+                            "timestamp": 1178.83215,
+                            "signiture": {
+                                "uniqueId": 1073742859,
+                                "charId": "token_10035_wisdel_wward"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 5
+                            }
+                        },
+                        {
+                            "timestamp": 1179.7655,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 7
+                            }
+                        },
+                        {
+                            "timestamp": 1183.53223,
+                            "signiture": {
+                                "uniqueId": 1073742274,
+                                "charId": "token_10043_necras_skeltn"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 6,
+                                "col": 9
+                            }
+                        },
+                        {
+                            "timestamp": 1193.2655,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 7
+                            }
+                        },
+                        {
+                            "timestamp": 1336.832,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 7
+                            }
+                        },
+                        {
+                            "timestamp": 1343.56543,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 7
+                            }
+                        },
+                        {
+                            "timestamp": 1497.76526,
+                            "signiture": {
+                                "uniqueId": 1073742859,
+                                "charId": "token_10035_wisdel_wward"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 5
+                            }
+                        },
+                        {
+                            "timestamp": 1498.79858,
+                            "signiture": {
+                                "uniqueId": 1073742859,
+                                "charId": "token_10035_wisdel_wward"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 6
+                            }
+                        },
+                        {
+                            "timestamp": 1499.59851,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 7
+                            }
+                        },
+                        {
+                            "timestamp": 1501.66528,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 7
+                            }
+                        },
+                        {
+                            "timestamp": 1609.93176,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 7
+                            }
+                        },
+                        {
+                            "timestamp": 1632.59839,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 7
+                            }
+                        },
+                        {
+                            "timestamp": 1718.49841,
+                            "signiture": {
+                                "uniqueId": 1073742859,
+                                "charId": "token_10035_wisdel_wward"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 2,
+                                "col": 8
+                            }
+                        },
+                        {
+                            "timestamp": 1718.665,
+                            "signiture": {
+                                "uniqueId": 1073742859,
+                                "charId": "token_10035_wisdel_wward"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 5
+                            }
+                        },
+                        {
+                            "timestamp": 1718.79834,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 7
+                            }
+                        },
+                        {
+                            "timestamp": 1729.53174,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 7
+                            }
+                        },
+                        {
+                            "timestamp": 1824.23157,
+                            "signiture": {
+                                "uniqueId": 1073742859,
+                                "charId": "token_10035_wisdel_wward"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 6
+                            }
+                        },
+                        {
+                            "timestamp": 1824.36487,
+                            "signiture": {
+                                "uniqueId": 1073742859,
+                                "charId": "token_10035_wisdel_wward"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 5
+                            }
+                        },
+                        {
+                            "timestamp": 1824.43164,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 7
+                            }
+                        },
+                        {
+                            "timestamp": 1840.66492,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 7
+                            }
+                        },
+                        {
+                            "timestamp": 1892.83154,
+                            "signiture": {
+                                "uniqueId": 1073742859,
+                                "charId": "token_10035_wisdel_wward"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 5
+                            }
+                        },
+                        {
+                            "timestamp": 1893.03149,
+                            "signiture": {
+                                "uniqueId": 1073742859,
+                                "charId": "token_10035_wisdel_wward"
+                            },
+                            "op": 1,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 6
+                            }
+                        },
+                        {
+                            "timestamp": 1893.09814,
+                            "signiture": {
+                                "uniqueId": 2147484683,
+                                "charId": "char_1035_wisdel"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 1,
+                                "col": 7
+                            }
+                        },
+                        {
+                            "timestamp": 1913.33154,
+                            "signiture": {
+                                "uniqueId": 2147484098,
+                                "charId": "char_450_necras"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 5,
+                                "col": 11
+                            }
+                        },
+                        {
+                            "timestamp": 1996.06482,
+                            "signiture": {
+                                "uniqueId": 2147484098,
+                                "charId": "char_450_necras"
+                            },
+                            "op": 2,
+                            "direction": 0,
+                            "pos": {
+                                "row": 5,
+                                "col": 11
                             }
                         }
                     ],
-                    "randomSeed": 1349613,
+                    "randomSeed": 4437559,
                     "runeList": null
                 }
             }

@@ -135,10 +135,13 @@ def accountSyncData():
             "starMark": 0
         }
 
-        # set to E2 art if available skipping is2 recruits
-        if operatorKeys[cnt] not in ["char_508_aguard", "char_509_acast", "char_510_amedic", "char_511_asnipe"]:
-            if myCharList[int(cntInstId)]["evolvePhase"] == 2:
-                myCharList[int(cntInstId)]["skin"] = str(operatorKeys[cnt]) + "#2"
+          # set to E2 art if available skipping is2 recruits
+        if operatorKeys[cnt] not in ["char_508_aguard", "char_509_acast", "char_510_amedic", "char_511_asnipe", "char_604_ccast", "char_603_csnipe", "char_600_cpione", "char_601_cguard", "char_607_cspec", "char_605_cmedic", "char_602_cdfend", "char_606_csuppo", "char_611_acnipe", "char_608_acpion"]:
+                if myCharList[int(cntInstId)]["evolvePhase"] == 2:
+                    if int(cntInstId) in [609, 610, 611, 612, 613, 614, 615]:
+                        myCharList[int(cntInstId)]["skin"] = str(operatorKeys[cnt]) + "#1"
+                    else:
+                        myCharList[int(cntInstId)]["skin"] = str(operatorKeys[cnt]) + "#2"
 
         # set to seasonal skins
         if operatorKeys[cnt] in tempSkinTable.keys():
@@ -239,7 +242,7 @@ def accountSyncData():
                                 "equip": {},
                             },
                             "char_1037_amiya3": {
-                                "skinId": "char_1001_amiya2@casc#1",
+                                "skinId": "char_1037_amiya3@sale#13",
                                 "defaultSkillIndex": 1,
                                 "skills": [
                                     {

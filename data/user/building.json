@@ -4883,6 +4883,25 @@
             },
             "workTime": 0
         },
+        "4177": {
+            "charId": "char_4177_brigid",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
         "4015": {
             "charId": "char_4015_spuria",
             "lastApAddTime": 1695000000,
@@ -5379,6 +5398,25 @@
         },
         "458": {
             "charId": "char_458_rfrost",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
+        "4171": {
+            "charId": "char_4171_wulfen",
             "lastApAddTime": 1695000000,
             "ap": 8640000,
             "roomSlotId": "",
@@ -6272,6 +6310,25 @@
         },
         "1040": {
             "charId": "char_1040_blaze2",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
+        "450": {
+            "charId": "char_450_necras",
             "lastApAddTime": 1695000000,
             "ap": 8640000,
             "roomSlotId": "",
@@ -15224,6 +15281,86 @@
             "count": 9999,
             "inUse": 0
         },
+        "furni_tarahouse_hangingcarpet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_tarahouse_candletray_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_tarahouse_column_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_tarahouse_table_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_tarahouse_chair_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_tarahouse_chair_02": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_tarahouse_shield_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_tarahouse_wallhanger_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_tarahouse_stove_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_tarahouse_pot_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_tarahouse_stool_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_tarahouse_stonecutoff_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_tarahouse_ceilinglight_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_tarahouse_wallshelf_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_tarahouse_bartable_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_tarahouse_bookcase_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_tarahouse_carpet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_tarahouse_carpet_02": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_tarahouse_wallpaper_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_tarahouse_floor_01": {
+            "count": 9999,
+            "inUse": 0
+        },
         "furni_oct1st_deckChair_01": {
             "count": 9999,
             "inUse": 0
@@ -16017,6 +16154,10 @@
             "inUse": 0
         },
         "furni_terracommericials_SpinachPack_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_terracommericials_BarrensTequila_01": {
             "count": 9999,
             "inUse": 0
         },
